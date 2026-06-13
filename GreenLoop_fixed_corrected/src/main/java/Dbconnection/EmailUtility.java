@@ -7,7 +7,7 @@ import java.util.Properties;
 public class EmailUtility {
 
     public static void sendEmail(String toEmail, String subject, String messageText) throws MessagingException {
-        final String fromEmail = "dilrukshan87@gmail.com";
+        final String fromEmail = "nethmidewkalani6@gmail.com";
         final String password = "lyib knxj xayp ngle"; // Replace with your Gmail App Password
 
         Properties props = new Properties();
